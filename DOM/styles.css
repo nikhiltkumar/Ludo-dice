@@ -1,0 +1,33 @@
+.head
+{
+  font-family: 'Dancing Script', cursive;
+  color: #00ADB5;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 5rem;
+
+}
+.bodys
+{
+  background-color: #393E46;
+}
+.nibdu
+{
+  text-align: center;
+  padding-bottom: 60px;
+}
+footer{
+  text-align: center;
+  padding: 25px;
+}
+.player{
+  font-family: 'Merriweather', sans-serif;
+  font-size: 3rem;
+  color: #00ADB5;
+}
+.foot
+{
+  font-family: 'Merriweather', serif;
+  color: #EEEEEE;
+}
